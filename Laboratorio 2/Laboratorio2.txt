@@ -1,0 +1,20 @@
+1. Si la información no es completa para oferentes y demandantes, hay una falla de mercado.
+     ¬P → Q
+
+     - P = La información es completa para oferentes y demandantes
+     - Q = Hay una falla de mercado
+
+
+2. He pasado todas mis vacaciones en Grecia y Marruecos.
+     P ^ Q
+
+     - P = He pasado mis vacaciones en Grecia
+     - Q = He pasado mis vacaciones en Marruecos
+
+
+3. La realidad supera a la ficción y él no puede creerlo.
+     P ^ ¬Q
+
+     - P = La realidad supera a la ficción
+     - Q = Él puede creerlo
+
